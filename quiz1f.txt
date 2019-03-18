@@ -1,0 +1,9 @@
+> Why is it working?
+  * The Raspeberry Pi is working because it has an OS. The Raspberry Pi will not boot if it does not contain
+    any OS.
+  * The indicator for the Raspberry Pi to be functional is its Red (POWER) and Green (ACTIVE) LED.
+  * If the Red LED is not blinking, it means the supply meets the requirements to the Raspberry Pi.
+  * If the green LED is not blinking, it means there is something wrong with your OS, or your SD card is
+    corrupted.
+
+Site: elinux.org/R-Pi_Troubleshooting

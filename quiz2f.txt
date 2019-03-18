@@ -1,0 +1,7 @@
+Observation:
+	The power supply's fuse is defective. Because of this, we never had the chance to check the other parts
+especially the motherboard.
+
+Solution:
+	* Buy a new fuse for the power supply.
+	* Buy a new power supply.
